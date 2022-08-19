@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-820,-940)">
+        <g id="STOL-85---SORT" serif:id="STOL 85 % SORT" transform="matrix(1.64519,0,0,1.95994,-519.972,749.5)">
+            <rect x="814.48" y="97.197" width="155.606" height="130.616" style="fill:none;"/>
+            <g transform="matrix(0.607834,0,0,0.510219,328.213,-81.38)">
+                <path d="M1049.5,356.5L806.5,356.5L806.5,599.5L1049.5,599.5L1049.5,356.5ZM1036.5,387.752L1036.5,369.5L819.5,369.5L819.5,586.5L829.734,586.5L857.477,487.282L976.724,510.005L966.335,495.223L1036.5,387.752ZM843.233,586.5L1030.49,586.5L987.464,525.286L866.779,502.289L843.233,586.5ZM998.681,518.638L1036.5,572.448L1036.5,423.6L998.681,518.638ZM982.036,494.954L989.748,505.927L1012.97,447.576L982.036,494.954Z" style="fill:rgb(38,38,38);"/>
+            </g>
+        </g>
+    </g>
+</svg>
